@@ -1,0 +1,29 @@
+.navbar {
+    background-color: aquamarine !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+
+  .navbar-brand {
+    font-size: 50px; /* Ajuste o tamanho da fonte para o valor desejado */
+  }
+  
+  #navTexto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Ajuste a altura conforme necessário */
+  }
+
+  .container h1 {
+    font-size: 28px; /* Ajuste o tamanho da fonte para o valor desejado */
+  }
